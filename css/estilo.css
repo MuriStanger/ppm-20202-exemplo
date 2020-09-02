@@ -6,6 +6,10 @@ body {
     margin-top: 100px;
 }
 
+h2 {
+    color: yellow;
+}
+
 p {
     color: lightslategray;
     font-weight: bold;
